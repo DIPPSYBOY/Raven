@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Tasty Italian Trattoria",
+      "address": "123 Main Street",
+      "city": "Sample City",
+      "state": "CA",
+      "zipCode": "12345",
+      "category": "Italian",
+      "rating": 4.5,
+      "reviewCount": 100,
+      "imageSrc": "restaurant1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Spicy Szechuan House",
+      "address": "456 Elm Street",
+      "city": "Another City",
+      "state": "NY",
+      "zipCode": "54321",
+      "category": "Chinese",
+      "rating": 4.2,
+      "reviewCount": 85,
+      "imageSrc": "restaurant2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Burger Shack",
+      "address": "789 Oak Avenue",
+      "city": "Sample Town",
+      "state": "TX",
+      "zipCode": "67890",
+      "category": "Burgers",
+      "rating": 4.7,
+      "reviewCount": 120,
+      "imageSrc": "restaurant3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mediterranean Delights",
+      "address": "101 Pine Road",
+      "city": "Other Town",
+      "state": "FL",
+      "zipCode": "34567",
+      "category": "Mediterranean",
+      "rating": 4.4,
+      "reviewCount": 95,
+      "imageSrc": "restaurant4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sushi Sensations",
+      "address": "222 Cedar Lane",
+      "city": "New City",
+      "state": "WA",
+      "zipCode": "98765",
+      "category": "Sushi",
+      "rating": 4.6,
+      "reviewCount": 110,
+      "imageSrc": "restaurant5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tex-Mex Fiesta",
+      "address": "333 Maple Avenue",
+      "city": "Hometown",
+      "state": "AZ",
+      "zipCode": "45678",
+      "category": "Mexican",
+      "rating": 4.3,
+      "reviewCount": 88,
+      "imageSrc": "restaurant6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cozy Cafe",
+      "address": "444 Elmwood Drive",
+      "city": "Village Center",
+      "state": "NC",
+      "zipCode": "23456",
+      "category": "Cafe",
+      "rating": 4.8,
+      "reviewCount": 130,
+      "imageSrc": "restaurant7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "BBQ Smokehouse",
+      "address": "555 Hickory Lane",
+      "city": "Countryville",
+      "state": "GA",
+      "zipCode": "76543",
+      "category": "Barbecue",
+      "rating": 4.9,
+      "reviewCount": 150,
+      "imageSrc": "restaurant8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fresh Seafood Grill",
+      "address": "666 Ocean Boulevard",
+      "city": "Seaside Town",
+      "state": "SC",
+      "zipCode": "32109",
+      "category": "Seafood",
+      "rating": 4.4,
+      "reviewCount": 95,
+      "imageSrc": "restaurant9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Vegetarian Bliss",
+      "address": "777 Green Street",
+      "city": "Greensville",
+      "state": "OR",
+      "zipCode": "54321",
+      "category": "Vegetarian",
+      "rating": 4.6,
+      "reviewCount": 105,
+      "imageSrc": "restaurant10.jpg"
+    }
+  ]

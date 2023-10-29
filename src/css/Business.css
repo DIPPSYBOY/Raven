@@ -1,0 +1,33 @@
+.Business {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    text-align: center;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .name {
+    font-size: 1.5rem;
+  }
+  
+  .address p {
+    font-size: 1rem;
+  }
+  
+  .info p {
+    font-size: 1rem;
+  }
+  
+  .rating {
+    color: #e7711b;
+  }
