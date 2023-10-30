@@ -10,7 +10,9 @@ function Business(props) {
           <img alt="" src={require('../images/restaurant.jpg')} />
         </div>
         <div className="address">
-          <p>{props.address}, {props.city}, {props.state}, {props.zipCode}</p>
+          <p>{props.address}</p>
+          <p>{props.city}</p>
+          <p>{props.state}, {props.zipCode}</p>
         </div>
         <div className="info">
           <p className="category">{props.category}</p>
