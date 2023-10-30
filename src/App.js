@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import BusinessList from './components/BusinessList';
 import SearchBar from './components/SearchBar';
+import restaurant_data from './data/restaurant_data.json';
 
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
             <SearchBar/>
           </div>
           <div>
-            <BusinessList/>
+            <BusinessList restaurant_data={restaurant_data}/>
           </div>
         </div>
     </div>
